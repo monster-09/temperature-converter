@@ -38,10 +38,6 @@ function convertToCelsius() {
     }
   }, 1200)
 
-// document.getElementById('convert-btn').addEventListener('click', function() {
-//     convertToCelsius();
-// });
-
 document.getElementById('about-btn').addEventListener('click', function() {
     toggleAboutContent();
 });
